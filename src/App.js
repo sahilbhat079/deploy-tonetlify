@@ -18,13 +18,12 @@ export default function App () {
   }
 
     return (<>
-    <BrowserRouter basename='/deploy-tonetlify'>
     <LoadingBar
     color='#f11946'
     height= {3}
     progress={progress} />
 
-      <Router>
+      <Router basename='/deploy-tonetlify'>
       <Navbar></Navbar>
       <Routes>
   <Route exact path="/" element={<Newscom setProgress={setProgress}    apikey={apikey}  key="general" country="in" category="general"/>}></Route>
@@ -40,7 +39,6 @@ export default function App () {
       </Routes>
 
     </Router>
-    </BrowserRouter>
     </>
     )
   }
