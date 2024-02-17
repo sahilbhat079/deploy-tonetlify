@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/deploy-tonetlify/static/css/main.073c9b0a.css",
-    "main.js": "/deploy-tonetlify/static/js/main.28cc6c07.js",
-    "static/js/787.4c026eef.chunk.js": "/deploy-tonetlify/static/js/787.4c026eef.chunk.js",
+    "main.css": "/deploy-tonetlify/static/css/main.f855e6bc.css",
+    "main.js": "/deploy-tonetlify/static/js/main.0ea51f2a.js",
+    "static/js/787.6643f1c0.chunk.js": "/deploy-tonetlify/static/js/787.6643f1c0.chunk.js",
     "static/media/loading.gif": "/deploy-tonetlify/static/media/loading.b2a8fa3d8baba9fc720f.gif",
     "index.html": "/deploy-tonetlify/index.html",
-    "main.073c9b0a.css.map": "/deploy-tonetlify/static/css/main.073c9b0a.css.map",
-    "main.28cc6c07.js.map": "/deploy-tonetlify/static/js/main.28cc6c07.js.map",
-    "787.4c026eef.chunk.js.map": "/deploy-tonetlify/static/js/787.4c026eef.chunk.js.map"
+    "main.f855e6bc.css.map": "/deploy-tonetlify/static/css/main.f855e6bc.css.map",
+    "main.0ea51f2a.js.map": "/deploy-tonetlify/static/js/main.0ea51f2a.js.map",
+    "787.6643f1c0.chunk.js.map": "/deploy-tonetlify/static/js/787.6643f1c0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.28cc6c07.js"
+    "static/css/main.f855e6bc.css",
+    "static/js/main.0ea51f2a.js"
   ]
 }
