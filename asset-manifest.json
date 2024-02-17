@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/deploy-tonetlify/static/css/main.073c9b0a.css",
+    "main.js": "/deploy-tonetlify/static/js/main.7db409d6.js",
+    "static/js/787.4c026eef.chunk.js": "/deploy-tonetlify/static/js/787.4c026eef.chunk.js",
+    "static/media/loading.gif": "/deploy-tonetlify/static/media/loading.b2a8fa3d8baba9fc720f.gif",
+    "index.html": "/deploy-tonetlify/index.html",
+    "main.073c9b0a.css.map": "/deploy-tonetlify/static/css/main.073c9b0a.css.map",
+    "main.7db409d6.js.map": "/deploy-tonetlify/static/js/main.7db409d6.js.map",
+    "787.4c026eef.chunk.js.map": "/deploy-tonetlify/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7db409d6.js"
+  ]
+}
